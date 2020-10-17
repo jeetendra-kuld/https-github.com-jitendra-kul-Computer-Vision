@@ -23,4 +23,3 @@ https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 
 # Results
 
-![table-page-001](https://user-images.githubusercontent.com/57855635/96332501-eabccf00-1081-11eb-92b4-e0da1533f03f.jpg)
