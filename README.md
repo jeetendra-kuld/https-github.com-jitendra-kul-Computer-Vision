@@ -11,7 +11,7 @@ https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 ![C3thin_original_IMG_20150608_163047_cell_36](https://user-images.githubusercontent.com/57855635/96330640-7c254480-1074-11eb-96a8-fcd56a4649db.png)
 
 # Pre-requisites
-1. tensorflow
+1. Tensorflow
 2. Flask
 3. gunicorn
 4. keras
