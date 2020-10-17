@@ -10,6 +10,17 @@ https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 # Sample image of  Uninfected cells
 ![C3thin_original_IMG_20150608_163047_cell_36](https://user-images.githubusercontent.com/57855635/96330640-7c254480-1074-11eb-96a8-fcd56a4649db.png)
 
+# Pre-requisites
+1. tensorflow
+2. Flask
+3. gunicorn
+4. keras
+5. imutils
+6. opencv-python
+7. h5py
+8. Pillow
+9. Werkzeug
+
 # Results
 I run it for 20 epochs:
 For Training data accuracy is 0.9143 with loss equals 0.2558.
