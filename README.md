@@ -5,6 +5,7 @@
 ![C33P1thinF_IMG_20150619_114756a_cell_179](https://user-images.githubusercontent.com/57855635/96330607-15079000-1074-11eb-9d0c-1b5b2cf3320a.png)
 
 # Sample image of  Uninfected cells
+![C3thin_original_IMG_20150608_163047_cell_36](https://user-images.githubusercontent.com/57855635/96330640-7c254480-1074-11eb-96a8-fcd56a4649db.png)
 
 # Results
 I run it for 20 epochs:
